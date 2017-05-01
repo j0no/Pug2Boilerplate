@@ -8,7 +8,7 @@
     "setup": "npm install && mkdir app app/libs app/css", 
     "serve": "gulp"
   },
-  "author": "",
+  "author": "jamrcelsw",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.18.8",
