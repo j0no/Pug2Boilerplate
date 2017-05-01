@@ -1,4 +1,4 @@
-# Pug2Boilerplate
+# Pug 2 Boilerplate
 Start building with Pug now!
 
 ### Global Dependencies
