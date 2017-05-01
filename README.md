@@ -3,9 +3,8 @@ Start building with Pug now!
 
 ### Global Dependencies
 Make sure that you have Gulp and Browser Sync installed globally.
-*[Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
-
-*[BrowswerSync](https://www.browsersync.io/)
+* [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
+* [BrowswerSync](https://www.browsersync.io/)
 
 ### Project Dependencies
 ```
