@@ -11,7 +11,7 @@ Make sure that you have Gulp and Browser Sync installed globally.
 npm install
 ```
 ### Run
-Use gulp to compile and serve. This will allows you to live reload. 
+Use gulp to compile into `app` directory and serve it that directory.
 ```
 gulp
 ```
